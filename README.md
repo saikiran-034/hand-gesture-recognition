@@ -1,5 +1,6 @@
 # hand-gesture-recognition
 ABSTRACT 
+
 Communication plays a vital part in mortal life. It encourages a man to pass on 
 his sentiments, passions and dispatches by talking, composing or by exercising 
 some other medium. Hand Gesture grounded communication is the main 
